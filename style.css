@@ -1,0 +1,19 @@
+body{
+color: black;
+background :lightpink ;
+
+}
+
+.heading{
+
+font-size: 22px;
+width: 80%;
+
+}
+
+#camera{
+
+width:300px;
+height: 280px;
+
+}
